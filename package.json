@@ -34,9 +34,3 @@
     "typescript": "5.1.6"
   }
 }
-
-{
-  "scripts": {
-    "lint": "next lint"
-  }
-}
