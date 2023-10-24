@@ -2,7 +2,7 @@ import { Hero } from "@/components/hero/hero";
 import Link from "next/link";
 import { AiOutlineArrowUp } from "react-icons/ai";
 
-export default function () {
+export default function Home() {
   return (
     <section className="margin">
       <h1 className="text-5xl font-bold md:font-semibold text-center mt-28 md:mt-10 mb-44 md:mb-0 max-w-2xl mx-auto">
